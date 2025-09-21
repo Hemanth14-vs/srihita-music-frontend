@@ -1,0 +1,74 @@
+MIT License
+
+Copyright (c) 2024 Music Streaming Platform Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Academic Use Notice
+
+This project is developed for educational purposes as part of an academic 
+assignment. The code is intended to demonstrate:
+
+- Modern React development practices
+- TypeScript implementation
+- Team collaboration workflows
+- Software engineering principles
+- Testing methodologies
+- Documentation standards
+
+### Educational Objectives
+
+1. **Technical Skills**: Demonstrate proficiency in React, TypeScript, and modern web development
+2. **Team Collaboration**: Show effective use of version control and collaborative development
+3. **Software Engineering**: Apply best practices in code organization, testing, and documentation
+4. **Project Management**: Execute a complex project within academic timeline constraints
+
+### Usage Guidelines for Educational Institutions
+
+- **Faculty**: This project may be used as a reference for similar assignments
+- **Students**: Code may be studied for learning purposes but should not be copied for submissions
+- **Institutions**: Feel free to adapt the project structure for your own coursework
+
+### Attribution Requirements
+
+If you use this project as a reference or starting point:
+
+1. Provide clear attribution to the original team
+2. Modify significantly to avoid academic integrity issues
+3. Ensure your use complies with your institution's policies
+4. Consider the educational value over direct copying
+
+### Commercial Use
+
+While the MIT license permits commercial use, this project is primarily 
+educational. For commercial applications:
+
+- Replace all mock data with real implementations
+- Ensure proper licensing for any music content
+- Implement proper security measures
+- Consider scalability and production requirements
+
+### Disclaimer
+
+This software is provided for educational purposes. The authors make no 
+warranties about its suitability for production use. Any music-related 
+content is for demonstration only and should be replaced with properly 
+licensed content for any real-world application.

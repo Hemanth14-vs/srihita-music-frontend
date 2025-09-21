@@ -1,0 +1,141 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Midnight Dreams",
+      "artist": "Luna Rodriguez",
+      "album": "Night Sessions",
+      "duration": 195,
+      "url": "/samples/sample-1.mp3",
+      "coverUrl": "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "genre": "Electronic",
+      "year": 2023,
+      "playCount": 1250000
+    },
+    {
+      "id": "2",
+      "title": "Urban Flow",
+      "artist": "Beat Masters",
+      "album": "City Sounds",
+      "duration": 180,
+      "url": "/samples/sample-2.mp3",
+      "coverUrl": "https://images.pexels.com/photos/1540406/pexels-photo-1540406.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "genre": "Hip-Hop",
+      "year": 2023,
+      "playCount": 890000
+    },
+    {
+      "id": "3",
+      "title": "Ocean Waves",
+      "artist": "Ambient Collective",
+      "album": "Natural Sounds",
+      "duration": 220,
+      "url": "/samples/sample-1.mp3",
+      "coverUrl": "https://images.pexels.com/photos/1708936/pexels-photo-1708936.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "genre": "Ambient",
+      "year": 2023,
+      "playCount": 650000
+    },
+    {
+      "id": "4",
+      "title": "Jazz Café",
+      "artist": "Smooth Operators",
+      "album": "Late Night Sessions",
+      "duration": 240,
+      "url": "/samples/sample-2.mp3",
+      "coverUrl": "https://images.pexels.com/photos/164821/pexels-photo-164821.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "genre": "Jazz",
+      "year": 2023,
+      "playCount": 420000
+    }
+  ],
+  "artists": [
+    {
+      "id": "1",
+      "name": "Luna Rodriguez",
+      "imageUrl": "https://images.pexels.com/photos/1644924/pexels-photo-1644924.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "followers": 1250000,
+      "monthlyListeners": 2800000,
+      "genres": ["Electronic", "Ambient"],
+      "bio": "Luna Rodriguez is a contemporary artist known for her ethereal soundscapes and emotive vocals."
+    },
+    {
+      "id": "2",
+      "name": "Beat Masters",
+      "imageUrl": "https://images.pexels.com/photos/1644944/pexels-photo-1644944.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "followers": 890000,
+      "monthlyListeners": 1500000,
+      "genres": ["Hip-Hop", "Electronic"],
+      "bio": "Beat Masters creates cutting-edge hip-hop and electronic beats for the modern era."
+    },
+    {
+      "id": "3",
+      "name": "Ambient Collective",
+      "imageUrl": "https://images.pexels.com/photos/1644925/pexels-photo-1644925.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "followers": 650000,
+      "monthlyListeners": 1200000,
+      "genres": ["Ambient", "New Age"],
+      "bio": "A group dedicated to creating immersive ambient soundscapes for relaxation and meditation."
+    }
+  ],
+  "playlists": [
+    {
+      "id": "1",
+      "name": "Today's Top Hits",
+      "description": "The most played songs right now",
+      "coverUrl": "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "songs": ["1", "2", "3"],
+      "featured": true,
+      "curator": "MusicStream",
+      "followers": 2500000
+    },
+    {
+      "id": "2",
+      "name": "Chill Vibes",
+      "description": "Relax and unwind with these mellow tracks",
+      "coverUrl": "https://images.pexels.com/photos/1540406/pexels-photo-1540406.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "songs": ["3", "4"],
+      "featured": true,
+      "curator": "MusicStream",
+      "followers": 1800000
+    },
+    {
+      "id": "3",
+      "name": "Electronic Essentials",
+      "description": "The best electronic music from around the world",
+      "coverUrl": "https://images.pexels.com/photos/1708936/pexels-photo-1708936.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=2",
+      "songs": ["1"],
+      "featured": true,
+      "curator": "MusicStream",
+      "followers": 1200000
+    }
+  ],
+  "genres": [
+    "pop",
+    "rock",
+    "hip-hop",
+    "jazz",
+    "classical",
+    "electronic",
+    "country",
+    "r&b",
+    "indie",
+    "folk",
+    "blues",
+    "reggae",
+    "ambient",
+    "new age"
+  ],
+  "suggestions": [
+    "midnight dreams",
+    "urban flow",
+    "ocean waves",
+    "jazz café",
+    "electronic music",
+    "ambient sounds",
+    "hip-hop beats",
+    "chill vibes",
+    "luna rodriguez",
+    "beat masters"
+  ]
+}

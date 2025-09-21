@@ -1,0 +1,17 @@
+Sample Audio Files for Music Streaming Platform
+
+These are placeholder audio files for development and testing purposes.
+
+For production deployment, replace with actual licensed audio content.
+
+Sample files should be:
+- sample-1.mp3 (30 seconds, suitable for testing playback)
+- sample-2.mp3 (30 seconds, different from sample-1)
+
+Note: Due to file size constraints, actual audio files are not included in this scaffold.
+For development, you can:
+1. Add your own MP3 files here
+2. Use online sample audio generators
+3. Record your own test audio clips
+
+All audio content should comply with licensing requirements for your deployment environment.
